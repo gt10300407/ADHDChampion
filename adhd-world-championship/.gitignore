@@ -1,0 +1,13 @@
+node_modules/
+dist/
+*.ait
+*.log
+.DS_Store
+coverage/
+.env
+.env.*
+test-results/
+playwright-report/
+blob-report/
+
+.granite/
